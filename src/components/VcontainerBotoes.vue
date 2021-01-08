@@ -8,13 +8,14 @@ export default {
 }
 </script>
 
-<style >
-button-container{
+<style scoped>
+.button-container{
     display: flex;
     width: 100%;
     height: 60px;
-    color: red;
-    align-content: center;
+    justify-content: center;
+    align-items: center;
+
     
 }
 </style>
